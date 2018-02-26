@@ -1,0 +1,71 @@
+body {
+  background-image: url('background.png');
+  background-color: #003366;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 20px;
+}
+
+p {
+  position: fixed;
+  margin: 0;
+  font-size: 3em;
+  color: #89CFF0;
+}
+
+svg#robot1 {
+  margin: auto;
+  display: block;
+  padding-left: 1200px;
+  padding-bottom: 50px;
+  fill: #7ABDFF;
+  height: 10em;
+  width: 10em;
+}
+
+svg#robot2 {
+  margin: auto;
+  display: block;
+  padding-left: 600px;
+  padding-bottom: 50px;
+  fill: #4DA6FF;
+  height: 9.5em;
+  width: 9.5em;
+}
+
+svg#robot3 {
+  margin: auto;
+  display: block;
+  padding-left: 1200px;
+  padding-bottom: 50px;
+  fill: #1F8FFF;
+  height: 10em;
+  width: 10em;
+}
+
+svg#robot4 {
+  margin: auto;
+  display: block;
+  padding-left: 600px;
+  padding-bottom: 50px;
+  fill: #0078F0;
+  height: 10em;
+  width: 10em;
+}
+
+svg#robot5 {
+  margin: auto;
+  display: block;
+  padding-left: 1200px;
+  padding-bottom: 50px;
+  fill: #0061C2;
+  height: 10em;
+  width: 10em;
+}
+
+svg#robot1:hover,
+svg#robot2:hover,
+svg#robot3:hover,
+svg#robot4:hover,
+svg#robot5:hover {
+  filter: drop-shadow(16px 16px 20px #27ff68) hue-rotate(15deg);
+}
