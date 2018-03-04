@@ -76,6 +76,7 @@ svg#robot1:hover,
 svg#robot2:hover,
 svg#robot3:hover,
 svg#robot4:hover,
-svg#robot5:hover {
+svg#robot5:hover,
+svg#robot6:hover {
   filter: drop-shadow(16px 16px 20px #27ff68) hue-rotate(15deg);
 }
