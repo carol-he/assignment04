@@ -62,6 +62,16 @@ svg#robot5 {
   width: 10em;
 }
 
+svg#robot6 {
+  margin: auto;
+  display: block;
+  padding-left: 600px;
+  padding-bottom: 50px;
+  fill: #0061C2;
+  height: 10em;
+  width: 10em;
+}
+
 svg#robot1:hover,
 svg#robot2:hover,
 svg#robot3:hover,
